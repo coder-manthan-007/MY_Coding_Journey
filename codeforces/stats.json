@@ -1,10 +1,15 @@
 {
   "codeforces": {
-    "solved": 0,
-    "newbie": 0,
-    "specialist": 0,
     "expert": 0,
     "master": 0,
-    "shas": {}
+    "newbie": 1,
+    "shas": {
+      "1042_A - Benches": {
+        "rating": 1100,
+        "category": "newbie"
+      }
+    },
+    "solved": 1,
+    "specialist": 0
   }
 }
