@@ -2,14 +2,18 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 1,
+    "newbie": 2,
     "shas": {
       "1042_A - Benches": {
-        "rating": 1100,
+        "category": "newbie",
+        "rating": 1100
+      },
+      "808_A - Lucky Year": {
+        "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 1,
+    "solved": 2,
     "specialist": 0
   }
 }
