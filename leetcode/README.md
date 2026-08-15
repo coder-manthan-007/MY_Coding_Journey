@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -33,9 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3241-divide-array-into-arrays-with-max-difference) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
