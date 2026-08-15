@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0451-sort-characters-by-frequency) |
+## Array
+|  |
+| ------- |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
