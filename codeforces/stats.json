@@ -2,22 +2,26 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 3,
+    "newbie": 4,
     "shas": {
       "1042_A - Benches": {
         "category": "newbie",
         "rating": 1100
       },
+      "58_A - Chat room": {
+        "category": "newbie",
+        "rating": 1000
+      },
       "808_A - Lucky Year": {
         "category": "newbie",
         "rating": 900
       },
-      "58_A - Chat room": {
-        "rating": 1000,
+      "1225_A - Forgetting Things": {
+        "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 3,
+    "solved": 4,
     "specialist": 0
   }
 }
