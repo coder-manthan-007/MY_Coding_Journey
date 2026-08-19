@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1371-minimum-remove-to-make-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -52,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1371-minimum-remove-to-make-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
