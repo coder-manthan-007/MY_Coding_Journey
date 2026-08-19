@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3241-divide-array-into-arrays-with-max-difference) |
 ## Stack
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
