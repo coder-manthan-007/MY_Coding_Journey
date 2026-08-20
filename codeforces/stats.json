@@ -2,11 +2,15 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 4,
+    "newbie": 5,
     "shas": {
       "1042_A - Benches": {
         "category": "newbie",
         "rating": 1100
+      },
+      "1225_A - Forgetting Things": {
+        "category": "newbie",
+        "rating": 900
       },
       "58_A - Chat room": {
         "category": "newbie",
@@ -16,12 +20,12 @@
         "category": "newbie",
         "rating": 900
       },
-      "1225_A - Forgetting Things": {
-        "rating": 900,
+      "1805_A - We Need the Zero": {
+        "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 4,
+    "solved": 5,
     "specialist": 0
   }
 }
