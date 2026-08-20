@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3347-distribute-elements-into-two-arrays-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
