@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
+| [2727-number-of-senior-citizens](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3379-score-of-a-string) |
 ## Counting
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
+| [2727-number-of-senior-citizens](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2727-number-of-senior-citizens) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3241-divide-array-into-arrays-with-max-difference) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3347-distribute-elements-into-two-arrays-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
