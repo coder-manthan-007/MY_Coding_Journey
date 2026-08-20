@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0451-sort-characters-by-frequency) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0451-sort-characters-by-frequency) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0049-group-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2727-number-of-senior-citizens) |
