@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3379-score-of-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/1890-sum-of-beauty-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
