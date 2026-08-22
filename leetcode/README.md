@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/coder-manthan-007/MY_Coding_Journey/tree/master/LeetCode/3918-check-divisibility-by-digit-sum-and-product) |
 ## Bracket Sequences
 |  |
 | ------- |
